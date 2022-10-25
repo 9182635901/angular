@@ -1,0 +1,19 @@
+h2{
+    color:blue;
+
+}
+
+
+a:link,a:visited{
+    background-color: black;
+    color:white;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    margin-left:20px;
+    margin-right: 100px;
+}
+
+a:hover,a:active{
+    background-color: coral;
+}
